@@ -17,12 +17,8 @@ This is a simple and responsive portfolio website created using basic **HTML** a
 * **Contact** – Contact information or form
 
 ## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+    visit My Porfolio https://gunasekaran07.github.io/Portfolio/
+  
 2. Open `index.html` in any web browser.
 
 ## 🌐 Live Demo
